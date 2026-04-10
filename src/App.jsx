@@ -1,11 +1,9 @@
 import './App.css'
-import { Home } from './assets/pages/home'
 
 function App() {
 
   return (
     <>
-    <Home/>
     </>
   )
 }
