@@ -16,7 +16,7 @@ export const CardList = () => {
       }
 
       const response = await axios.get(
-        'https://api.themoviedb.org/3/movie/popular?language=en-US&page=1',
+        'https://api.themoviedb.org/3/movie/popular?language=pt-BR&page=1',
         config
       )
 
